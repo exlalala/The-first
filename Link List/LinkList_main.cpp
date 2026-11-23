@@ -1,4 +1,4 @@
-﻿#include "111.h"
+﻿#include "LinkList_head.h"
 
 int main() {
 	int a[] = { 25,12,78,34,100,88 };
